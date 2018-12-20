@@ -1,0 +1,21 @@
+{
+  "name": "9040-pokelist",
+  "version": "1.0.0",
+  "description": "In this exercise, you have to implement a website that uses a RESTful Web API in the background. You have to create the website from scratch without any initial templates to build on. Feel free to use prior homeworks or samples from the course material as a starting point.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.3.25",
+    "typescript": "^3.3.0-dev.20181214"
+  },
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/node": "^10.12.15",
+    "browser-sync": "^2.26.3",
+    "jquery": "^3.3.1"
+  }
+}
